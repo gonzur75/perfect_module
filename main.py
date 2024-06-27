@@ -52,4 +52,5 @@ def main(filepath):
 
 # fetch_words('text.txt')
 if __name__ == '__main__':
-    main(sys.argv[1]) # Zero index is module name 
+    main(sys.argv[1]) # Zero index is module name
+    
